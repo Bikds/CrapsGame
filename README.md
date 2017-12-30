@@ -1,0 +1,2 @@
+# CrapsGame
+This is a simulation of the game Craps in which the user rolls 2 dice. If the first roll lands a seven or an eleven, the user automatically wins, but if a 2, 3, or 12 is rolled, the player loses. If anything else is rolled, then that number becomes "the point". The player keeps rolling until either a seven or the point is rolled. If a 7 is rolled, the player loses. If the point is rolled, then the player wins.
